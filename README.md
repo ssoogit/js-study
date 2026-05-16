@@ -4,11 +4,11 @@ JavaScript 강의 예제 코드와 TIL을 기록하는 저장소입니다.
 
 ## 📂 폴더 구조
 
-\```
+```
 js-study/
 ├── lecture/   # 강의 예제 코드
 └── TIL/       # Today I Learned
-\```
+```
 
 ## 📖 학습 강의
 
