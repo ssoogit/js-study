@@ -49,6 +49,11 @@ const doubleResult = (result) => {
 
 calculate(3, 5, printResult);
 calculate(3, 5, doubleResult);
+// 코드 부가 설명 
+// calculate는 "콜백을 받는 함수"
+// printResult/doubleResult는 "콜백으로 전달되는 함수" (= 콜백함수)
+// callback은 그냥 매개변수 이름
+
 
 // 콜백 함수 2 ( 함수 호출 내부에 함수 작성)
 const testFunc = (callback) => {
