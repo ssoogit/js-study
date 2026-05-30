@@ -28,4 +28,4 @@
 
 
 ## 예제 코드
-👉 [20강_spread와_rest.js](../../lecture/20강_spread와_rest.js)
+👉 [21강_spread와_rest.js](../../lecture/21강_spread와_rest.js)
